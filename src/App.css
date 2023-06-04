@@ -1,0 +1,36 @@
+
+.ce-chat-list-mobile-option,
+.ce-autocomplete-options,
+.ce-chat-title-container, 
+.ce-chat-form-container,
+.ce-text-input,
+.ce-section-title-container,
+.ce-chat-title-text,
+.ce-person-text,
+#ce-options-drop-down {
+    color: rgba(70, 70, 70) !important;
+}
+  
+.ce-message-bubble, 
+#new-chat-plus-button, 
+#ce-send-message-button {
+    background-color: pink !important;
+    color: rgba(70, 70, 70) !important;
+}
+  
+.anticon-paper-clip,
+.anticon-menu,
+.anticon-setting,
+.anticon-close {
+    color: pink !important;
+}
+
+
+.ce-autocomplete-options {
+    position: relative;
+    top: 4px;
+}
+
+.ce-chat-unread-dot {
+    background-color: pink !important;
+}
